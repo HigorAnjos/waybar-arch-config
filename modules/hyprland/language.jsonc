@@ -1,14 +1,7 @@
 {
 	"hyprland/language": {
-		// "format":
-		// "format-<lang>":
-		"format-en": " en"
-		// "keyboard-name":
-		// "min-length":
-		// "max-length":
-		// "menu":
-		// "menu-file":
-		// "menu-actions":
-		// "expand":
+		"format-en": " en",
+		"format-pt": " pt-br",
+		"on-click": "hyprctl switchxkblayout all next"
 	}
 }
