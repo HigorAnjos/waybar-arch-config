@@ -16,11 +16,12 @@
 }
 
 #waybar {
-	background-color: @outline;
+	background-color: transparent;
 }
 #waybar > box {
 	margin: 4px;
-	background-color: @main-bg;
+	background-color: alpha(@main-bg, 0.75);
+	border-radius: 8px;
 }
 
 button {

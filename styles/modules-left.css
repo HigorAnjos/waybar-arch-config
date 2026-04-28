@@ -9,6 +9,7 @@
 #workspaces {
 	padding: 0 1px;
 	background-color: @workspaces;
+	border-radius: 8px 0 0 8px;
 }
 #workspaces button.active label,
 #workspaces button.focused label {
