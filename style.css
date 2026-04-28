@@ -19,7 +19,7 @@
 	background-color: transparent;
 }
 #waybar > box {
-	margin: 4px;
+	margin: 2px;
 	background-color: alpha(@main-bg, 0.75);
 	border-radius: 8px;
 }
